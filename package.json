@@ -6,7 +6,9 @@
   "dependencies": {
     "body-parser": "^1.18.3",
     "express": "^4.16.4",
-    "path": "^0.12.7"
+    "json-parser": "^1.1.5",
+    "path": "^0.12.7",
+    "urlencoded-parser": "^1.0.0"
   },
   "devDependencies": {},
   "scripts": {
