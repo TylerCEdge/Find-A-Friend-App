@@ -2,7 +2,7 @@ var friends = [
 
 {
     "name":"Ahmed",
-    "photo":"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+    "photo":"http://www.quickmeme.com/img/fa/fa0a7bf1178be547b57f20671f6046c66501a91871cff172e91f657960ec13fd.jpg",
     "scores":[
         "5",
         "1",
@@ -18,7 +18,7 @@ var friends = [
   },
   {
     "name":"Archer",
-    "photo":"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+    "photo":"http://www.quickmeme.com/img/fa/fa0a7bf1178be547b57f20671f6046c66501a91871cff172e91f657960ec13fd.jpg",
     "scores":[
         "3",
         "2",
@@ -34,7 +34,7 @@ var friends = [
   },
   {
     "name":"Rick",
-    "photo":"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+    "photo":"http://www.quickmeme.com/img/fa/fa0a7bf1178be547b57f20671f6046c66501a91871cff172e91f657960ec13fd.jpg",
     "scores":[
         "5",
         "5",
@@ -50,7 +50,7 @@ var friends = [
   },
   {
     "name":"Morty",
-    "photo":"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+    "photo":"http://www.quickmeme.com/img/fa/fa0a7bf1178be547b57f20671f6046c66501a91871cff172e91f657960ec13fd.jpg",
     "scores":[
         "2",
         "2",
@@ -66,7 +66,7 @@ var friends = [
   },
   {
     "name":"Peter",
-    "photo":"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+    "photo":"http://www.quickmeme.com/img/fa/fa0a7bf1178be547b57f20671f6046c66501a91871cff172e91f657960ec13fd.jpg",
     "scores":[
         "2",
         "2",
