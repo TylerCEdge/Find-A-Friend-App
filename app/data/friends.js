@@ -1,8 +1,8 @@
 var friends = [
 
 {
-    "name":"Ahmed",
-    "photo":"http://www.quickmeme.com/img/fa/fa0a7bf1178be547b57f20671f6046c66501a91871cff172e91f657960ec13fd.jpg",
+    "name":"Achmed",
+    "photo":"https://vignette.wikia.nocookie.net/jeffdunham/images/5/59/Jeff_dunham.jpg/revision/latest?cb=20100908140135",
     "scores":[
         "5",
         "1",
@@ -18,7 +18,7 @@ var friends = [
   },
   {
     "name":"Archer",
-    "photo":"http://www.quickmeme.com/img/fa/fa0a7bf1178be547b57f20671f6046c66501a91871cff172e91f657960ec13fd.jpg",
+    "photo":"https://a1cf74336522e87f135f-2f21ace9a6cf0052456644b80fa06d4f.ssl.cf2.rackcdn.com/images/characters/p-archer-h-jon-benjamin.jpg",
     "scores":[
         "3",
         "2",
@@ -34,7 +34,7 @@ var friends = [
   },
   {
     "name":"Rick",
-    "photo":"http://www.quickmeme.com/img/fa/fa0a7bf1178be547b57f20671f6046c66501a91871cff172e91f657960ec13fd.jpg",
+    "photo":"https://vignette.wikia.nocookie.net/villains/images/d/dd/Rick.png/revision/latest?cb=20190114215942",
     "scores":[
         "5",
         "5",
@@ -50,7 +50,7 @@ var friends = [
   },
   {
     "name":"Morty",
-    "photo":"http://www.quickmeme.com/img/fa/fa0a7bf1178be547b57f20671f6046c66501a91871cff172e91f657960ec13fd.jpg",
+    "photo":"https://store.playstation.com/store/api/chihiro/00_09_000/container/IE/en/999/EP0149-CUSA09988_00-AV00000000000002/1553528383000/image?w=240&h=240&bg_color=000000&opacity=100&_version=00_09_000",
     "scores":[
         "2",
         "2",
@@ -66,7 +66,7 @@ var friends = [
   },
   {
     "name":"Peter",
-    "photo":"http://www.quickmeme.com/img/fa/fa0a7bf1178be547b57f20671f6046c66501a91871cff172e91f657960ec13fd.jpg",
+    "photo":"https://upload.wikimedia.org/wikipedia/en/thumb/c/c2/Peter_Griffin.png/220px-Peter_Griffin.png",
     "scores":[
         "2",
         "2",
